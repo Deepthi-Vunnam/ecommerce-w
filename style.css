@@ -1,0 +1,50 @@
+img{
+    width:70px;
+    height:70px;
+}
+.img1
+{
+    width:150px;
+    height:150px; 
+    border-radius: 30px;
+    background: rgb(10,121,230);    
+}
+.img2{
+    width:700px;
+    height: 400px;
+}
+.img3
+{
+    width:180px;
+    height:170px; 
+    border-radius: 30px;
+    background: rgb(10,121,230);  
+}
+.badge{
+border-radius:50px;
+float:left;
+}
+a{
+    text-decoration: none;
+    font-size:20px;
+}
+.feature{
+    background: rgb(0,121,230);
+    background: linear-gradient(0deg,rgba(0,121,230,1) 0%,rgba(0,250,255,1)90%);
+}
+
+.bg_checkout_1{
+    background: rgb(0,121,230);
+    background: linear-gradient(0deg,rgb(180, 121, 177) 0%,rgb(172, 123, 179)90%);
+}
+.Checkout{
+    background: rgb(139, 129, 230);
+
+}
+.footer_links a{
+    text-decoration: none;
+    color:black;
+}
+/* .border-top{
+    background:gray;
+} */
